@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestDockerWar:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TestDockerWar.war">
+      <element id="artifact" artifact-name="TestDockerWar:war exploded" />
+    </root>
+  </artifact>
+</component>
